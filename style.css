@@ -1,0 +1,30 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  font-size: larger;
+  text-align: justify;
+}
+
+header{
+  background-color: black;
+  color: white;
+  width: fit-content;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: larger;
+  text-align: justify;
+}
+
+#warning_header {
+  font-size: 30px;
+  color: red;
+}
